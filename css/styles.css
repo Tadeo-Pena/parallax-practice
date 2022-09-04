@@ -1,0 +1,29 @@
+/* font-family: 'Lobster', cursive; 
+font-family: 'Open Sans', sans-serif; */
+nav {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.jumbo span {
+    font-family: 'Lobster', cursive;
+}
+
+.jumbo { background-image: url(../img/firstJumbo.jpg); }
+
+#yt-jumbo { background-image: url(../img/youtube.jpg); }
+
+#twitch-jumbo { background-image: url(../img/twitch.jpg); }
+
+.bg-twitch { color: #8943F3 !important; }
+
+#apple-jumbo { background-image: url(../img/apple.jpg); }
+
+#amazon-jumbo { background-image: url(../img/amazon2.jpeg); }
+
+.parallax {
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
